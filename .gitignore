@@ -1,0 +1,15 @@
+# Compiled C++ files
+*.exe
+*.out
+*.o
+*.dSYM
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Sensitive files
+passwords.txt
+secrets.txt
+*.env
+*.key
